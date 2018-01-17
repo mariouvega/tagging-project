@@ -1,0 +1,2 @@
+class AddColumnToUsersController < ApplicationController
+end
